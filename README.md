@@ -3,6 +3,7 @@ This is the interface for medical workers, allowing correct comparison of prosta
 
 System requirements:
 Windows 10 (x64) or higher.
+MinGW x64
 
 How to build it:
 1. Please install Qt Creator 5.0.0 or higher.
